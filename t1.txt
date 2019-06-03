@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git add
+=======
+git commit -m
+>>>>>>> c0f97b7ca67b708034a6d68ea42cdeceb17686b5
